@@ -17,7 +17,7 @@ keys_information_e="e_key_log.txt"
 
 key="PeWm9P5ogqf_8cpgfn-bvRgaW5JvM8jwk-xlGWYVrtM="
 #giving the path 
-file_path="D:\Documents\Prodigy Internship Project(Cyber Security)\PRODIGY_CS_04"
+file_path="D:\Documents\Prodigy Internship Project(Cyber Security)\PRODIGY_CS_04"    #change the path according to you
 
 #for extend the path
 extend="\\"
